@@ -1,0 +1,11 @@
+.App-content {
+    width: 100vw;
+    position: absolute;
+    height: 100vh;
+    padding: 20px;
+    padding-top: 11vh; 
+    top: 0;
+    left: 0;
+    background-color: red;
+    overflow: auto;
+}

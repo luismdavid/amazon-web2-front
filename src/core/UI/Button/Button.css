@@ -1,0 +1,9 @@
+button {
+    background-color: rgb(94, 94, 226);
+    color: white;
+}
+
+.danger {
+    background-color: #f73b3b;
+    color: white;
+}

@@ -1,0 +1,17 @@
+.App-header {
+    background-color: black;
+    width: 100vw;
+    height: 10vh;
+    max-height: 80vh;
+    position: absolute;
+    display: flex;
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .App-logo {
+    height: 8vh;
+    max-height: 50px;
+  }
+  
